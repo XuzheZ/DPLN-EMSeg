@@ -43,7 +43,7 @@ loaddata.iqynp
 >
 >
 ./DPLN/Net_MDLSTM.py
->
+>Above py files define the layers.
 >
 ./DPLN/ProcGenerator.py
 >This py file is refered to as a batch generator.
