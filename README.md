@@ -4,9 +4,9 @@ Our group dealt with the segmentation of electron microscopy (EM) images of neur
 
 
 ### Group: DPLN
-* 	Huixiang Zhuang hz2538 Columbia University
-* 	Yutao Tang      yt2639 Columbia University
-* 	Xuzhe Zhang     xz2778 Columbia University
+* 	Huixiang Zhuang hz2538@COLUMBIA.EDU
+* 	Yutao Tang      yt2639@COLUMBIA.EDU
+* 	Xuzhe Zhang     xz2778@COLUMBIA.EDU
 
 ### Getting Started
 These instructions will provide you a guideline for our basic functions as well as how to running on your machine for development and testing purposes.
