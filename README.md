@@ -91,5 +91,5 @@ The evaluation of the test result is based on two empirical metrics: **Foregroun
 Since the ground-truth of test data is not provided publicly, to evaluate the test result, you have to register and login the [2012 ISBI Challenge](http://brainiac2.mit.edu/isbi_challenge/) website and then upload the result. The evaluation is manually implemented by the logistics of ISBI, so it may take some time.
 
 ### Our result
-![test image](https://github.com/XuzheZ/DPLN/blob/master/test.GIF?raw=true)<center>Test data </center>![prediction](https://github.com/XuzheZ/DPLN/blob/master/prediction.GIF?raw=true)<center>Prediction </center>
+![test image](https://github.com/XuzheZ/DPLN-EMSeg/blob/master/images/test-volume.gif?raw=true)<center>Test data </center>![prediction](https://github.com/XuzheZ/DPLN/blob/master/prediction.GIF?raw=true)<center>Prediction </center>
 
