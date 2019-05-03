@@ -94,5 +94,5 @@ Since the ground-truth of test data is not provided publicly, to evaluate the te
 ![test image](https://github.com/XuzheZ/DPLN-EMSeg/blob/master/images/test-volume.gif?raw=true)<center>Test data </center>![prediction](https://github.com/XuzheZ/DPLN-EMSeg/blob/master/images/prediction_upload_256_epoch3200_unpreprocessed.gif?raw=true)<center>Prediction </center>
 
 ### Leaderboard
-![Leaderboard](https://github.com/XuzheZ/DPLN-EMSeg/blob/master/images/Leaderboard.png?raw=true)<center>Leaderboard</center>!
+![Leaderboard](https://github.com/XuzheZ/DPLN-EMSeg/blob/master/images/Leaderboard.png?raw=true)<center>Leaderboard</center>
 
