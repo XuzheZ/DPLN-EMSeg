@@ -1,4 +1,0 @@
-model_checkpoint_path: "pyramidnet_size16"
-all_model_checkpoint_paths: "..\\checkpoints\\size16_step5.ckpt"
-all_model_checkpoint_paths: "..\\checkpoints\\size16_step10.ckpt"
-all_model_checkpoint_paths: "pyramidnet_size16"
