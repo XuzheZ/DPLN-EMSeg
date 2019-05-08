@@ -1,4 +1,3 @@
-
 ## ECBM 4040 Final Project: [Learning-based EM image segmentation]
 Our group dealt with the segmentation of electron microscopy (EM) images of neuronal structures using the PyraMid-LSTM model proposed by the [paper](https://arxiv.org/abs/1506.07452). We also achieved a Multi-Dimensional LSTM (MD-LSTM) model for comparison.
 
